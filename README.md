@@ -1,2 +1,4 @@
-# it-gig-work
-Landing page for IT freelance tutoring.
+# IT Freelance Tutoring
+Landing page for those looking to transition into IT gig work.
+
+https://ryanraposo.github.io/it-gig-work/
